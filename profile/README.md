@@ -1,5 +1,5 @@
 # Hi there 👋 we are Lovelace community :heart:
-## We apply computer science :computer: to everyday problems :bulb:
+### We apply computer science :computer: to everyday problems :bulb:
 
 
 <!--
