@@ -1,5 +1,9 @@
-# Hi there 👋 we are Lovelace community :heart:
+![Group 61](https://github.com/user-attachments/assets/2b28ed93-d08e-495f-9179-f2a285272b22)
+
+# Hi there! 👋 we are Lovelace community :heart:
 ### We apply computer science :computer: to everyday problems :bulb:
+
+
 
 
 <!--
