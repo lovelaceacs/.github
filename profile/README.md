@@ -1,4 +1,4 @@
-![Group 61](https://github.com/user-attachments/assets/2b28ed93-d08e-495f-9179-f2a285272b22)
+![Group 42](https://github.com/user-attachments/assets/8316a933-5b85-49bb-a96a-5a6de6a4e953)
 
 # Hi there! 👋 we are Lovelace community :heart:
 ### We apply computer science :computer: to everyday problems :bulb:
